@@ -9,7 +9,7 @@
   "dependencies": {
     "prop-types": "^15.6.1",
     "react": "^16.3.0-alpha.1",
-    "react-native": "0.54.0",
+    "react-native": "0.70.2",
     "react-native-google-static-map": "^0.1.11",
     "react-native-searchbar": "^1.14.0",
     "react-native-snap-carousel": "^3.6.0",
